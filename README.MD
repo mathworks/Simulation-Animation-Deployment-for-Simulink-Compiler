@@ -1,6 +1,6 @@
 
 
-Simulation animation deployment with Simulink Compiler and Simulink 3d Animation
+Simulation animation deployment with Simulink Compiler and Simulink 3D Animation
 
 Joint Space Manipulator Trajectory Following Example
 Copyright 2012-2020 The MathWorks, Inc.
